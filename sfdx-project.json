@@ -11,7 +11,7 @@
             "definitionFile": "config/project-scratch-def.json",
             "dependencies": [
                 {
-                  "package": "baseObjects@0.1.0-1"                 
+                    "package": "baseObjects@0.1.0-1"
                 }
             ]
         },
@@ -30,6 +30,7 @@
     "packageAliases": {
         "baseObjects": "0Ho8d0000008Oc3CAE",
         "baseObjects@0.1.0-1": "04t8d0000009WKeAAM",
-        "employeeApp": "0Ho8d0000008Oc8CAE"
+        "employeeApp": "0Ho8d0000008Oc8CAE",
+        "employeeApp@0.1.0-1-main": "04t8d0000009WboAAE"
     }
 }
